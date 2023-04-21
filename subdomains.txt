@@ -1,0 +1,18 @@
+HTTP/2 200 
+date: Fri, 21 Apr 2023 07:31:49 GMT
+content-type: text/plain
+content-length: 34437300
+last-modified: Tue, 28 Mar 2023 13:14:14 GMT
+etag: "6422e826-20d78b4"
+strict-transport-security: max-age=63072000; includeSubdomains
+x-frame-options: DENY
+x-content-type-options: nosniff
+cache-control: max-age=172800
+cf-cache-status: REVALIDATED
+accept-ranges: bytes
+report-to: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=uzrfSdG4gWgocebKczALgb3LB5PCJu9CcnxI8XddGGLxQMKtcdEiIDtQmZxu%2BbjvjSgjIJxm7VhAltsH9fYWyCoKSEFPL6TXpMDrGQZoa%2FN3VBtXDoVFpDOYF52ArEExTGLoXv0ZmD1Q4vT6gg%3D%3D"}],"group":"cf-nel","max_age":604800}
+nel: {"success_fraction":0,"report_to":"cf-nel","max_age":604800}
+server: cloudflare
+cf-ray: 7bb3edf29f5f3ded-SIN
+alt-svc: h3=":443"; ma=86400, h3-29=":443"; ma=86400
+
